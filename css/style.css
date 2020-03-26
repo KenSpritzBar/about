@@ -1065,7 +1065,7 @@ p {
 <style>
 table.personale{
 width:95%;
-font-family:Georgia;
+font-family: 'Roboto', sans-serif ;
 border-collapse: collapse;
 border-spacing: 0;
 border: 0px solid #bbb;
@@ -1080,8 +1080,7 @@ padding:0px;
 .personale th {
 padding:7px 10px;
 text-align:left;
-font-family:Georgia;
-font-weight:bold;
+font-family:'Roboto', sans-serif;
 font-size:16px;
 }
 table.personale tr:nth-child(odd){
