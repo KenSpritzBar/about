@@ -64,7 +64,8 @@
 	
 	a:hover
 	{
-		text-decoration: underline;
+		font-weight: bold;
+
 
 	}
 
@@ -1095,8 +1096,6 @@ table.personale th:nth-child(even){
 background-color:#922503;
 }
 </style>
-
-
 
 
 
