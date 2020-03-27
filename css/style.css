@@ -66,7 +66,6 @@
 	{
 		font-weight: bold;
 
-
 	}
 
 	sub
@@ -301,7 +300,7 @@ p {
 
 	.button:hover
 	{
-		background: #922503;
+		font-weight: bold;
 		color: #FFF !important;
 	}
 
